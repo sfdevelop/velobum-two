@@ -1,0 +1,13 @@
+
+table td, table th {
+    background: #f1f1f1 none repeat scroll 0 0!important;
+}
+table > tbody > tr:nth-of-type(odd) {
+  background-color: #f9f9f9!important;
+}
+table{
+    background: #ccc!important;
+}
+table tbody tr, table thead tr{
+    border: none!important;
+}
